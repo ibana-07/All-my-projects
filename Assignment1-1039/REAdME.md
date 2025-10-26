@@ -12,7 +12,7 @@ Title: LED Mode Control using Buttons
 - Hardware: NodeMCU ESP8266, 3 LEDs, 2 Push Buttons, Buzzer, OLED.  
 - Main code: assignment1/taskA/src/main.cpp  
 - Circuit JSON: assignment1/taskA/wokwiA/diagram.json  
-- Wokwi Link: [👉 Task A Simulation](https://wokwi.com/projects/445876538621868033)  
+- Wokwi Link: [👉 Task A Simulation]https://wokwi.com/projects/445876538621868033  
 - Screenshots: assignment1/taskA/screenshots/
 
 ---
@@ -23,7 +23,8 @@ Title: Button Press Type Detection
 - Hardware: NodeMCU ESP8266, 1 LED, 1 Button, Buzzer, OLED.  
 - Main code: assignment1/taskB/src/main.cpp  
 - Circuit JSON: assignment1/taskB/wokwiB/diagram.json  
-- Wokwi Link: [👉 Task B Simulation](https://wokwi.com/projects/445878804164986881)  
+- Wokwi Link: [👉 Task B Simulation]https://wokwi.com/projects/445878804164986881  
 - Screenshots: assignment1/taskB/screenshots/
 
 ---
+
